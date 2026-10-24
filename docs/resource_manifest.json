@@ -1,0 +1,32 @@
+{
+  "touchdesigner_build": "2023.11600",
+  "files": [
+    {
+      "path": "Lantern.toe",
+      "bytes": 181323160,
+      "sha256": "3bf1fc3b865de3f42689597b6a5600aaf463e12b91a4e13189821ec64ab3c6c1"
+    },
+    {
+      "path": "assets/models/knight.fbx",
+      "bytes": 507276,
+      "sha256": "385f56899e57fb40b6e9d64a2ba09336556da310937f625ea6713c94f90fbbf7"
+    },
+    {
+      "path": "assets/models/y_bot.fbx",
+      "bytes": 1982368,
+      "sha256": "75c119dfcedda38d2a61e703fe50c05a56da7b6386becd6d727e7ac268e48ab8"
+    },
+    {
+      "path": "assets/vfx/knight_dash_atlas.png",
+      "bytes": 1028112,
+      "sha256": "dc07432ab923d7f0b980649619a67903e2c12fd6bf8faed28000d2424359cecf"
+    },
+    {
+      "path": "assets/vfx/knight_slash_atlas.png",
+      "bytes": 1201158,
+      "sha256": "a25de29bc03cfe273c3fd8f01ae617b5a07e1d30e572a1a9a390ef39fc4b5763"
+    }
+  ],
+  "embedded_resources": "embedded_resources.json",
+  "standard_resources": "TD installation supplies standard camera/null display geometry"
+}

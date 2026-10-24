@@ -1,0 +1,32 @@
+# Local Python and editor state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+
+# TouchDesigner autosaves and runtime diagnostics
+.runtime/
+Backup/
+backups/
+TDImportCache/
+*.toe.dir/
+*.toe.toc
+*.toe.bkp
+*.tox.bkp
+*.bak
+*.tmp
+*.1.toe
+*.2.toe
+*.3.toe
+*.[0-9]*.toe
+Thumbs.db
+Desktop.ini
+
+# Generated distributable archives
+dist/

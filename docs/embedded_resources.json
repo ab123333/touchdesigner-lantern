@@ -1,0 +1,138 @@
+[
+  {
+    "name": "#index.html",
+    "bytes": 1460
+  },
+  {
+    "name": "#vite.svg",
+    "bytes": 1497
+  },
+  {
+    "name": "#mediapipe#vision_bundle.mjs.map",
+    "bytes": 345020
+  },
+  {
+    "name": "#mediapipe#vision.d.ts",
+    "bytes": 123366
+  },
+  {
+    "name": "#mediapipe#README.md",
+    "bytes": 8937
+  },
+  {
+    "name": "#mediapipe#package.json",
+    "bytes": 592
+  },
+  {
+    "name": "#mediapipe#vision_bundle.cjs.map",
+    "bytes": 345021
+  },
+  {
+    "name": "#mediapipe#vision_bundle.cjs",
+    "bytes": 137890
+  },
+  {
+    "name": "#mediapipe#vision_bundle.mjs",
+    "bytes": 137735
+  },
+  {
+    "name": "#mediapipe#wasm#vision_wasm_nosimd_internal.wasm",
+    "bytes": 9448638
+  },
+  {
+    "name": "#mediapipe#wasm#vision_wasm_nosimd_internal.js",
+    "bytes": 204137
+  },
+  {
+    "name": "#mediapipe#wasm#vision_wasm_internal.wasm",
+    "bytes": 9574032
+  },
+  {
+    "name": "#mediapipe#wasm#vision_wasm_internal.js",
+    "bytes": 204284
+  },
+  {
+    "name": "#mediapipe#models#hand_landmark_detection#hand_landmarker.task",
+    "bytes": 7819105
+  },
+  {
+    "name": "#mediapipe#models#image_segmentation#selfie_segmenter_landscape.tflite",
+    "bytes": 250177
+  },
+  {
+    "name": "#mediapipe#models#image_segmentation#hair_segmenter.tflite",
+    "bytes": 781618
+  },
+  {
+    "name": "#mediapipe#models#image_segmentation#selfie_multiclass_256x256.tflite",
+    "bytes": 16371837
+  },
+  {
+    "name": "#mediapipe#models#image_segmentation#selfie_segmenter.tflite",
+    "bytes": 249537
+  },
+  {
+    "name": "#mediapipe#models#image_segmentation#deeplab_v3.tflite",
+    "bytes": 2780176
+  },
+  {
+    "name": "#mediapipe#models#pose_landmark_detection#pose_landmarker_lite.task",
+    "bytes": 5777746
+  },
+  {
+    "name": "#mediapipe#models#pose_landmark_detection#pose_landmarker_full.task",
+    "bytes": 9398198
+  },
+  {
+    "name": "#mediapipe#models#pose_landmark_detection#pose_landmarker_heavy.task",
+    "bytes": 30664242
+  },
+  {
+    "name": "#mediapipe#models#gesture_recognition#gesture_recognizer.task",
+    "bytes": 8373440
+  },
+  {
+    "name": "#mediapipe#models#object_detection#ssd_mobilenet_v2.tflite",
+    "bytes": 11316189
+  },
+  {
+    "name": "#mediapipe#models#object_detection#efficientdet_lite0.tflite",
+    "bytes": 13836895
+  },
+  {
+    "name": "#mediapipe#models#object_detection#efficientdet_lite2.tflite",
+    "bytes": 23096891
+  },
+  {
+    "name": "#mediapipe#models#face_detection#blaze_face_short_range.tflite",
+    "bytes": 229746
+  },
+  {
+    "name": "#mediapipe#models#face_landmark_detection#face_landmarker.task",
+    "bytes": 3758596
+  },
+  {
+    "name": "#mediapipe#models#image_embedder#mobilenet_v3_small.tflite",
+    "bytes": 4117670
+  },
+  {
+    "name": "#mediapipe#models#image_embedder#mobilenet_v3_large.tflite",
+    "bytes": 10889458
+  },
+  {
+    "name": "#mediapipe#models#image_classification#efficientnet_lite2.tflite",
+    "bytes": 24325765
+  },
+  {
+    "name": "#mediapipe#models#image_classification#efficientnet_lite0.tflite",
+    "bytes": 18582189
+  },
+  {
+    "name": "#assets#index--arrM_R9.js",
+    "bytes": 228128
+  },
+  {
+    "name": "#assets#index-DLNuohsE.css",
+    "bytes": 979
+  }
+]
