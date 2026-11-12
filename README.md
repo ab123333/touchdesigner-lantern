@@ -1,5 +1,9 @@
 # Lantern · TouchDesigner 动作交互实验
 
+本分支的双关卡版本请打开 **Lantern_Crescent.toe**。击败第一关 Boss 后，从最右侧石柱向右跳进光门，即可进入亚特兰蒂斯。手柄 △ 或键盘 V 释放月牙回刃，去程与回程各可造成 1 点伤害，冷却 2 秒。
+
+![月牙回刃实机画面](docs/crescent-preview.png)
+
 基于 TouchDesigner 的 2.5D 侧视角动作游戏：PS5 DualSense 控制小骑士，摄像头识别真人身体和双手动作并驱动 Boss。主要逻辑由 Script CHOP／Python 实现，材质和特效使用 GLSL。
 
 ![游戏画面](docs/gameplay.png)
